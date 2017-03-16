@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Potions">
+        <file>images/Potions/Small Potion (50x50).png</file>
+        <file>images/Potions/Super Potion (50x50).png</file>
+        <file>images/Potions/Hyper Potion (50x50).png</file>
+        <file>images/Potions/Potion GIF.gif</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>images/icones/Alarms.png</file>
+        <file>images/icones/Extra.png</file>
+        <file>images/icones/Fishing.png</file>
+        <file>images/icones/Healer.png</file>
+        <file>images/icones/Cavebot.png</file>
+        <file>images/icones/Depoting.png</file>
+        <file>images/icones/Hunting.png</file>
+        <file>images/icones/Looting.png</file>
+    </qresource>
+</RCC>
