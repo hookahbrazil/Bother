@@ -24,11 +24,14 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    dialog_alarms.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    dialog_alarms.h
 
-FORMS    += mainwindow.ui
+FORMS    += mainwindow.ui \
+    dialog_alarms.ui
 
 RESOURCES += \
     images.qrc

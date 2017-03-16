@@ -14,5 +14,6 @@
         <file>images/icones/Depoting.png</file>
         <file>images/icones/Hunting.png</file>
         <file>images/icones/Looting.png</file>
+        <file>images/icones/minilogo.png</file>
     </qresource>
 </RCC>
